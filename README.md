@@ -1,4 +1,5 @@
 haskell-sandbox
 ===============
 
-Playing around with haskell
+A few steps in Haskell...
+
